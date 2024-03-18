@@ -28,4 +28,5 @@ li {
  
 h1, h2 {
     text-decoration: underline;
+    float: left;
 }
