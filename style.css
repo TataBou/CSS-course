@@ -10,11 +10,19 @@ h1 {
  
 p  {
     border: 3px solid;
-   }
+}
+ 
+ul, ol  {
+    background-color: #ffff99;
+}
+ 
+h1, h2 {
+    text-decoration: underline;
+}
+
  
 ul {
-    background-color: #ffff99;
-  display: inline-box;
+ display: inline-box;
   list-style-type: none;
   line-height: 50px;
   overflow: hidden;
@@ -26,7 +34,3 @@ li {
   margin-right: 10px;
 }
  
-div{
-    background-color: red;
-   
-}
