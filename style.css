@@ -12,7 +12,7 @@ p  {
     border: 3px solid;
 }
  
-ul, ol  {
+ul {
     background-color: #ffff99;
   display: inline-box;
   list-style-type: none;
